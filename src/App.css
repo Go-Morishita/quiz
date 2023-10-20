@@ -1,0 +1,14 @@
+ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style: none;
+  gap: 10px
+}
+
+ul li{
+  padding: 5px 20px;
+  color: white;
+  background-color: navy;
+  border-radius: 4px;
+}
